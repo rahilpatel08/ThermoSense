@@ -48,7 +48,7 @@ I tested all three states by manually adjusting the TMP36 temperature value insi
 
 ## 🖼️ Circuit Diagram
 
-![Circuit Diagram](circuit.png)
+![Circuit Diagram](circuit.PNG)
 
 ---
 
