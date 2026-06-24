@@ -1,3 +1,4 @@
+# 🌡️ ThermoSense
 # 🌡️ Smart Temperature Monitoring System
 
 A temperature monitoring system built using **Arduino Uno** and simulated on **Tinkercad**.  
