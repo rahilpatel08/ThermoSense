@@ -1,5 +1,5 @@
 # 🌡️ ThermoSense
-Arduino-Based Smart Temperature Monitoring & Alert System
+### Arduino-Based Smart Temperature Monitoring & Alert System
 
 A temperature monitoring system built using **Arduino Uno** and simulated on **Tinkercad**.  
 The system reads real-time temperature data from a TMP36 sensor and triggers visual and audio alerts based on predefined thresholds.
